@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ardaucok
-- 👀 I’m interested in Molecular Dynamics
-- 🌱 I’m currently learning LAMMPS for Molecular Dynamic Calculations
+- 👀 I’m interested in Cybersecurity and App Development.
+- 💻 Currently working as a IT Security Officer.
+- 🎓 I am a former PhD Scholar, user of LAMMPS for Molecular Dynamic Calculations.
 - 📫 You can reach me with ucokarda@gmail.com or via my social networks
-
